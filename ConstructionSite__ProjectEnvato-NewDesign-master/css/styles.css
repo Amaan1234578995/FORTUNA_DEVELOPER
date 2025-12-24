@@ -95,12 +95,7 @@ body {
     background-color: rgba(33, 37, 41, 0.95);
   }
 }
-<<<<<<< HEAD
 /* Masthead (Home Section) - UPDATED TO MATCH OTHER SECTIONS */
-=======
-
-/* Masthead (Home Section) - UPDATED */
->>>>>>> cdd1104574a604a80edcc2336107c5ccec24ba3c
 .masthead {
   width: 100%;
   min-height: 100vh; /* Keeps it full screen, but matches padding flow */
@@ -431,11 +426,7 @@ body {
 .contact__text {
   min-width: 230.38px;
 }
-<<<<<<< HEAD
 
-=======
-/* Contact */
->>>>>>> cdd1104574a604a80edcc2336107c5ccec24ba3c
 .map-container {
   width: 100%;
   height: 350px;
